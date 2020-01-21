@@ -1,6 +1,6 @@
 {
     "name": "@wq/jest-env-jsdom-idb",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Fake-IndexedDB environment for Jest",
     "main": "index.js",
     "scripts": {
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/wq/wq.app.git"
+        "url": "git+https://github.com/wq/jest-env-jsdom-idb.git"
     },
     "keywords": [
         "wq",
@@ -21,9 +21,9 @@
     "author": "S. Andrew Sheppard",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/wq/wq.app/issues"
+        "url": "https://github.com/wq/jest-env-jsdom-idb/issues"
     },
-    "homepage": "https://wq.io/wq.app",
+    "homepage": "https://github.com/wq/jest-env-jsdom-idb",
     "comments": [
         "Need realistic-structured-clone 1.0 for blob support."
     ],
